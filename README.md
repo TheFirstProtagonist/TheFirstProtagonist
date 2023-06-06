@@ -8,8 +8,6 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFirstProtagonist&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFirstProtagonist&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
